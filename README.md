@@ -1,14 +1,14 @@
 # BIP44 Constants
-[![NPM Package](https://img.shields.io/npm/v/bip44-constants.svg?style=flat-square)](https://www.npmjs.org/package/bip44-constants)
+[![NPM Package](https://img.shields.io/npm/v/bip44-constants.svg?style=flat-square)](TBD)
 
-This package provides BIP44 coin constants as found here: https://github.com/satoshilabs/slips/blob/master/slip-0044.md
+This package provides BIP44 coin constants as found here: https://github.com/ethos-source/ETHOS-44/blob/master/ETHOS-44.md
 
 You can read more about [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki).
 
 
 ## Install
 ```
-npm i --save bip44-constants
+TBD
 ```
 
 ## Usage
